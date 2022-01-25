@@ -1,8 +1,7 @@
 # how to use
 
-npm i
-node index
-node quiz (для второго задания)
+1. npm i
+2. node index or node quiz (для второго задания)
 
 ## Текущая дата и время в формате ISO:
 node index current
